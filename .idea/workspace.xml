@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa5960d5-154e-4c6f-9f72-0c5e9c25a754" name="Changes" comment="Added Java prectice programs">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IntelliLang.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;deepakyadav70-debug&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/deepakyadav70-debug/Java.git&quot;,
+    &quot;accountId&quot;: &quot;e2dd7968-27fa-4fda-a62f-75c4197f73f7&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Methods/MaxOfThreeBuiltIn.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3B2LLCQiZkwWkhLxkynGD1lHbtB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ASCIII.executor": "Run",
+    "Application.AbsoluteValue.executor": "Run",
+    "Application.AllPractice.StarTriangle.executor": "Run",
+    "Application.AlphaBigSmall.executor": "Run",
+    "Application.AlphabetSquare.executor": "Run",
+    "Application.AlphabetTriangle.executor": "Run",
+    "Application.Ap.executor": "Run",
+    "Application.AreaOfCircle.executor": "Run",
+    "Application.Arguments.executor": "Run",
+    "Application.BasicArr.executor": "Run",
+    "Application.BasicsArr.executor": "Run",
+    "Application.BasicsLoops.executor": "Run",
+    "Application.BinaryTriangle.executor": "Run",
+    "Application.Bridge.executor": "Run",
+    "Application.Composite.executor": "Run",
+    "Application.CompositeNumber.executor": "Run",
+    "Application.CountOfDigits.executor": "Run",
+    "Application.DecreasingNo.executor": "Run",
+    "Application.Diamond.executor": "Coverage",
+    "Application.DoubleFlippedTriangle.executor": "Run",
+    "Application.EvenNo.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.FloydTriangle.executor": "Run",
+    "Application.GP.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
+    "Application.InputOutput.executor": "Run",
+    "Application.LowerTriangle.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MaxOfThreeBuiltIn.executor": "Run",
+    "Application.NumberShape.executor": "Run",
+    "Application.NumberTriangle.executor": "Run",
+    "Application.OddNoDiv3.executor": "Run",
+    "Application.OddTriangle.executor": "Run",
+    "Application.PermutationAndCombination.executor": "Run",
+    "Application.Pyramid.executor": "Run",
+    "Application.ReturnType.executor": "Run",
+    "Application.ReverseAP.executor": "Run",
+    "Application.ReverseNumber.executor": "Run",
+    "Application.Rhombus.executor": "Run",
+    "Application.SecondLargest.executor": "Run",
+    "Application.Spiral.executor": "Run",
+    "Application.StarCross.executor": "Run",
+    "Application.StarPlus.executor": "Run",
+    "Application.StarRectangle.executor": "Run",
+    "Application.StarSquare.executor": "Run",
+    "Application.StarTriangle.executor": "Run",
+    "Application.SumOfDigit.executor": "Run",
+    "Application.SwapNumber.executor": "Run",
+    "Application.TableOf17.executor": "Run",
+    "Application.TableOfn.executor": "Run",
+    "Application.UPtriangle.executor": "Run",
+    "Application.UpperTriangle.executor": "Run",
+    "Application.UseOfOR.executor": "Debug",
+    "Application.WhileLoop.executor": "Run",
+    "Application.basics.executor": "Run",
+    "Application.bubbleSort.executor": "Run",
+    "Application.insertionSort.executor": "Run",
+    "Application.pp.executor": "Run",
+    "Application.practice.executor": "Run",
+    "Application.recursion.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "clean-main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/deepakyadav/IdeaProjects/JavaBasics/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PatternPrinting" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.33813.55" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5960d5-154e-4c6f-9f72-0c5e9c25a754" name="Changes" comment="" />
+      <created>1773682160086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773682160086</updated>
+      <workItem from="1773682181877" duration="3397000" />
+      <workItem from="1773939081355" duration="6307000" />
+      <workItem from="1773949666192" duration="4000" />
+      <workItem from="1774023183031" duration="4624000" />
+      <workItem from="1774275468540" duration="3238000" />
+      <workItem from="1775388626172" duration="9000" />
+      <workItem from="1775389340663" duration="44000" />
+      <workItem from="1776278204916" duration="8000" />
+      <workItem from="1776278222296" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1787400669587</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1787400669587</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1787500716690</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1787500716690</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1787682174657</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1787682174657</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1787854382139</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1787854382139</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Java prectice programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Java prectice programs" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/binaryTree/basics.java</url>
+          <line>3</line>
+          <properties field="val" class="binaryTree.Node" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaBasics$Diamond.ic" NAME="Diamond Coverage Results" MODIFIED="1787860511967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/JavaBasics$NumberShape.ic" NAME="NumberShape Coverage Results" MODIFIED="1781896126695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>PatternPrinting.*</FILTER>
+    </SUITE>
+  </component>
+</project>
