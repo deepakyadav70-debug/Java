@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa5960d5-154e-4c6f-9f72-0c5e9c25a754" name="Changes" comment="Added Java prectice programs">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IntelliLang.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaBasics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +64,10 @@
     "Application.Ap.executor": "Run",
     "Application.AreaOfCircle.executor": "Run",
     "Application.Arguments.executor": "Run",
+    "Application.ArrayMethod.executor": "Run",
+    "Application.ArrayPrectice.executor": "Run",
+    "Application.ArraySum.executor": "Run",
+    "Application.ArrraySum.executor": "Run",
     "Application.BasicArr.executor": "Run",
     "Application.BasicsArr.executor": "Run",
     "Application.BasicsLoops.executor": "Run",
@@ -89,20 +86,29 @@
     "Application.GP.executor": "Run",
     "Application.HollowRectangle.executor": "Run",
     "Application.InputOutput.executor": "Run",
+    "Application.LargestElement.executor": "Run",
     "Application.LowerTriangle.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MaxElement.executor": "Run",
     "Application.MaxOfThreeBuiltIn.executor": "Run",
+    "Application.MinimumElement.executor": "Run",
+    "Application.MissingNo.executor": "Run",
+    "Application.NegativeElements.executor": "Run",
     "Application.NumberShape.executor": "Run",
     "Application.NumberTriangle.executor": "Run",
     "Application.OddNoDiv3.executor": "Run",
     "Application.OddTriangle.executor": "Run",
     "Application.PermutationAndCombination.executor": "Run",
+    "Application.ProductOfArray.executor": "Run",
     "Application.Pyramid.executor": "Run",
     "Application.ReturnType.executor": "Run",
     "Application.ReverseAP.executor": "Run",
     "Application.ReverseNumber.executor": "Run",
     "Application.Rhombus.executor": "Run",
     "Application.SecondLargest.executor": "Run",
+    "Application.ShallowANDDeepCopy.executor": "Run",
+    "Application.SmallestElement.executor": "Run",
+    "Application.SortArray.executor": "Run",
     "Application.Spiral.executor": "Run",
     "Application.StarCross.executor": "Run",
     "Application.StarPlus.executor": "Run",
@@ -123,6 +129,7 @@
     "Application.pp.executor": "Run",
     "Application.practice.executor": "Run",
     "Application.recursion.executor": "Run",
+    "Application.starcross.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -140,7 +147,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.inline.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -205,7 +212,87 @@
       <option name="project" value="LOCAL" />
       <updated>1787854382139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788450266227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1788450266227</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788451422476</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788451422476</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788501882006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788501882007</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788504368750</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1788504368750</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788505099431</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1788505099431</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788505255602</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1788505255602</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788507205681</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1788507205681</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788717325275</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1788717325275</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788717502116</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1788717502116</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Java prectice programs">
+      <option name="closed" value="true" />
+      <created>1788717655681</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1788717655681</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
