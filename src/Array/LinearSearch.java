@@ -11,7 +11,7 @@ public class LinearSearch {
     }
 
     public static void main(String[] args) {
-        int[] numbers = {12, 45, 7, 23, 56, 89, 34};
+        int[] numbers = {12, 45, 18, 23, 56, 89, 34};
         int target = 18;
 
         int result = linearSearch(numbers, target);
