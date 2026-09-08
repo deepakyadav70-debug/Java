@@ -7,3 +7,4 @@ public class ForEachLoop {
             System.out.print(ele +" ");
     }
 }
+     // syntax for(dataType VariableName: arrayORcollection)
